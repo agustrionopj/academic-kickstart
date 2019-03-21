@@ -5,15 +5,16 @@
 
 widget = "featured"  # Do not modify this line!
 active = true  # Activate this widget? true/false
-weight = 80  # Order that this section will appear.
+weight = 10  # Order that this section will appear.
 
-title = "Featured Publications"
+title = "**Highlights**"
 subtitle = ""
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
-  page_type = "publication"
-  
+ # page_type = "publication"
+  page_type = "post"
+
   # Choose how much pages you would like to display (0 = all pages)
   count = 0
 

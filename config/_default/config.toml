@@ -5,15 +5,15 @@
 # Each configuration section is defined by a name in square brackets (e.g. `[outputs]`).
 
 # Title of your site
-title = "Academic"
+title = ""
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "/"
+baseurl = "https://bosscha.itb.ac.id/"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = ""
+copyright = "&copy; 2019 Observatorium Bosscha"
 
 # Enable analytics by entering your Google Analytics tracking ID
 googleAnalytics = ""
@@ -29,7 +29,7 @@ disqusShortname = ""
 theme = "academic"
 
 # Get last modified date for content from Git?
-enableGitInfo = false
+enableGitInfo = true
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
@@ -49,7 +49,7 @@ preserveTaxonomyNames = true
 # Configure BlackFriday Markdown rendering.
 #   See: https://gohugo.io/getting-started/configuration/#configure-blackfriday
 [blackfriday]
-  hrefTargetBlank = true  # `true` opens external links in a new tab. See https://github.com/gohugoio/hugo/issues/2424
+  hrefTargetBlank = false  # `true` opens external links in a new tab. See https://github.com/gohugoio/hugo/issues/2424
 	angledQuotes = false
 	latexDashes = true
   extensions = ["backslashLineBreak"]
@@ -65,3 +65,60 @@ preserveTaxonomyNames = true
   category = "categories"
   publication_type = "publication_types"
   author = "authors"
+
+# #########################################
+# Atur urutan menu di halaman 'Tentang Kami'
+# #########################################
+[[menu.author-detil]]
+  name = "Fasilitas"
+  weight = 30
+  identifier = "Fasilitas"
+
+[[menu.staf]]
+  name = "Staf"
+  identifier = "staf"
+
+[[menu.author-detil]]
+  name = "Staf"
+  url = "/../#people"
+  weight = 20
+  identifier = "staf"
+
+[[menu.publikasi]]
+  name = "Publikasi"
+  identifier = "publikasi"
+
+[[menu.penelitian]]
+  name = "Publikasi"
+  url = "/../#publications"
+  weight = 20
+  identifier = "publikasi"
+
+#[[menu.repo]]
+#  name = "Repository"
+#  identifier = "repository"
+
+#[[menu.Layanan]]
+#  name = "Repository"
+#  url = "/../#repository"
+#  weight = 30
+#  identifier = "repository"
+
+#[[menu.material]]
+#  name = "Material"
+#  identifier = "material"
+
+#[[menu.layanan]]
+#  name = "Material"
+#  identifier = "material"
+#  url = "material"
+#  weight = 20
+
+#[[menu.penelitian]]
+#  name = "Exoplanet"
+#  url = "/../exo"
+#  weight = 10
+#  identifier = "exoplanet"
+
+[permalinks]
+    post = "/:year/:month/:day/:slug"

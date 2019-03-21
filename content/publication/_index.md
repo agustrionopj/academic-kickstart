@@ -1,5 +1,5 @@
 +++
-title = "Publications"
+title = "Publikasi"
 
 # View.
 #   1 = List

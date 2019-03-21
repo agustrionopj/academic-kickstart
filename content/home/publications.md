@@ -6,8 +6,8 @@ widget = "pages"  # Do not modify this line!
 active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
-title = "Recent Publications"
-subtitle = ""
+title = "Publikasi"
+subtitle = "[Lihat semua :arrow_forward:](/publication/)"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
@@ -66,5 +66,8 @@ subtitle = ""
 +++
 
 {{% alert note %}}
-Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
+Cari publikasi dengan cepat dengan menggunakan [filter publikasi]({{< ref "/publication/_index.md" >}}).
 {{% /alert %}}
+
+#### :arrow_backward: [Kembali]({{< relref "/penelitian/_index.md" >}})
+***

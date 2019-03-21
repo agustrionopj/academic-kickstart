@@ -4,34 +4,70 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-  name = "Home"
+  name = "Beranda"
+  url = "/"
+  weight = 5
+
+[[main]]
+  name = "Berita"
+  url = "#posts"
+  weight = 20
+  
+[[main]]
+  name = "Tentang Kami"
   url = "#about"
   weight = 10
 
 [[main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 20
-
-[[main]]
-  name = "Projects"
-  url = "#projects"
+  name = "Kunjungan"
+  url = "/kunjungan/"
   weight = 30
 
 [[main]]
-  name = "Publications"
-  url = "#featured"
+  name = "Penelitian"
+  url = "/penelitian/"
+  weight = 30
+
+[[main]]
+  name = "Akademik"
+  url = "/akademik/"
   weight = 40
 
 [[main]]
-  name = "Tutorials"
-  url = "/tutorial/"
+  name = "Layanan"
+  url = "/layanan/"
   weight = 50
 
 [[main]]
-  name = "Contact"
-  url = "#contact"
+  name = "Tautan"
+  url = "#projects"
   weight = 60
+# [[main]]
+#   name = "Projects"
+#   url = "#projects"
+#   weight = 50
+
+# [[main]]
+#   name = "Publications"
+#   identifier = "publikasi"
+#   url = "#featured"
+#   weight = 40
+
+# [[main]]
+#   name = "Publications-1"
+#   parent = "publikasi"
+#   url = "#featured"
+#   weight = 10
+
+[[main]]
+  name = "Galeri"
+  url = "/gallery/"
+  weight = 70
+
+[[main]]
+  name = "Kontak"
+  url = "/kontak/"
+  weight = 80
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

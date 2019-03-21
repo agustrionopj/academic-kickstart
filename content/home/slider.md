@@ -1,55 +1,84 @@
 +++
 # Slider widget.
 widget = "slider"  # Do not modify this line!
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 
 # Order that this section will appear in.
 weight = 1
 
 # Slide interval.
 # Use `false` to disable animation or enter a time in ms, e.g. `5000` (5s).
-interval = false
+interval = 5000
 
 # Minimum slide height.
 # Specify a height to ensure a consistent height for each slide.
-height = "300px"
+height = "400px"
 
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "Hello"
-  content = "I am center aligned :smile:"
+  title = "**Selamat Datang**"
+  content = ""
   align = "center"  # Choose `center`, `left`, or `right`.
+
+  #title = "Hello"
+  #content = "I am center aligned :smile:"
+  #align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   overlay_color = "#666"  # An HTML color value.
-  overlay_img = "headers/bubbles-wide.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "headers/m31.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
-  cta_label = "Get Academic"
-  cta_url = "https://sourcethemes.com/academic/"
+  cta_label = "Tentang Kami"
+  cta_url = "#about"
   cta_icon_pack = "fas"
-  cta_icon = "graduation-cap"
+  cta_icon = "user-check"
 
 [[item]]
-  title = "Left"
-  content = "I am left aligned :smile:"
-  align = "left"
+  title = "**Penelitian**"
+  content = "Observasi, Pengembangan Instrumen & Sistem,  Publikasi"
+  align = "center"
 
   overlay_color = "#555"  # An HTML color value.
-  overlay_img = ""  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  overlay_img = "headers/research.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.6  # Darken the image. Value in range 0-1.
+
+  cta_label = "Detail"
+  cta_url = "/penelitian/"
+  cta_icon_pack = "fas"
+  cta_icon = "user-astronaut"
 
 [[item]]
-  title = "Right"
-  content = "I am right aligned :smile:"
+  title = "**Pendidikan**"
+  content = "Praktikum, Kerja Praktik, Kerjasama Non-Astronomi"
+  align = "left"
+
+  overlay_color = "#333"  # An HTML color value.
+  overlay_img = "headers/akademik.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.6  # Darken the image. Value in range 0-1.
+
+  cta_label = "Detail"
+  cta_url = "/akademik/"
+  cta_icon_pack = "fas"
+  cta_icon = "book-open"
+
+[[item]]
+  title = "**Layanan**"
+  content = "Kunjungan Publik & Khusus, Pelatihan, Pengamatan Hilal"
   align = "right"
 
   overlay_color = "#333"  # An HTML color value.
-  overlay_img = ""  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  overlay_img = "headers/kunjungan.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.6  # Darken the image. Value in range 0-1.
+
+  cta_label = "Detail"
+  cta_url = "/layanan/"
+  cta_icon_pack = "fas"
+  cta_icon = "users"
+
 +++

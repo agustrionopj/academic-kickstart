@@ -1,6 +1,6 @@
 +++
 # Display name
-name = "Nelson Bighetti"
+name = "Observatorium Bosscha"
 
 # Username (this should match the folder name)
 authors = ["admin"]
@@ -9,44 +9,44 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Professor of Artificial Intelligence"
+role = "Fakultas Matematika dan Ilmu Pengetahuan Alam"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Stanford University", url = "" } ]
+organizations = [ { name = "Institut Teknologi Bandung", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include distributed robotics, mobile computing and programmable matter."
+bio = ""
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
 
 # List (academic) interests or hobbies
-interests = [
-  "Artificial Intelligence",
-  "Computational Linguistics",
-  "Information Retrieval"
-]
+# interests = [
+#  "Artificial Intelligence",
+#  "Computational Linguistics",
+#  "Information Retrieval"
+#]
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups = ["Researchers", "Visitors"]
+# user_groups = ["Peneliti"]
 
 # List qualifications (such as academic degrees)
-[[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+#[[education.courses]]
+#  course = "PhD in Artificial Intelligence"
+#  institution = "Stanford University"
+#  year = 2012
 
-[[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+#[[education.courses]]
+#  course = "MEng in Artificial Intelligence"
+#  institution = "Massachusetts Institute of Technology"
+#  year = 2009
 
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+#[[education.courses]]
+#  course = "BSc in Artificial Intelligence"
+#  institution = "Massachusetts Institute of Technology"
+#  year = 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -61,17 +61,22 @@ user_groups = ["Researchers", "Visitors"]
 [[social]]
   icon = "twitter"
   icon_pack = "fab"
-  link = "https://twitter.com/GeorgeCushen"
+  link = "https://twitter.com/obsbosscha"
 
 [[social]]
-  icon = "google-scholar"
-  icon_pack = "ai"
-  link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
-
-[[social]]
-  icon = "github"
+  icon = "instagram"
   icon_pack = "fab"
-  link = "https://github.com/gcushen"
+  link = "https://www.instagram.com/bosschaobservatory"
+
+[[social]]
+  icon = "facebook"
+  icon_pack = "fab"
+  link = "https://www.facebook.com/observatorium.bosscha/"
+
+[[social]]
+  icon = "youtube"
+  icon_pack = "fab"
+  link = "https://www.youtube.com/user/obsbosscha/"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -82,6 +87,6 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Observatorium Bosscha adalah lembaga riset yang berada di bawah naungan Fakultas Matematika dan Ilmu Pengetahuan Alam Institut Teknologi Bandung ([FMIPA ITB](https://fmipa.itb.ac.id)). Hingga saat ini, Observatorium Bosscha merupakan satu--satunya observatorium besar di Indonesia. Bersama--sama dengan [Program Studi Astronomi](https://www.as.itb.ac.id/en/), FMIPA ITB, Observatorium Bosscha menjadi pusat penelitian, pendidikan, dan pengembangan ilmu Astronomi di Indonesia.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Detail lebih lanjut mengenai [sejarah]({{< ref "/author-detil/_index.md">}}), [staf]({{< ref "#people" >}}), [fasilitas]({{< ref "/author-detil/instrumen.md" >}}), dan [akses]({{< ref "/author-detil/akses.md" >}}) silakan cek tautan [berikut]({{< ref "/author-detil/_index.md">}}).
