@@ -18,7 +18,7 @@ type = "docs"  # Do not modify.
 
 bla bla deskripsi soal workshop. Jika perlu page khusus, bisa ke [sini]({{< relref "workshop">}}).
 
-detail detail detail
+detail detail detail detail
 
 ## Pengamatan Hilal
 
