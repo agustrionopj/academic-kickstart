@@ -49,7 +49,7 @@ Pendaftaran tanpa melampirkan surat resmi `tidak kami layani`. Observatorium Bos
 Informasi lebih lanjut dapat menghubungi bagian pendaftaran pada jam kerja (hari Senin hingga Jumat pukul 9:00 -- 12:00 WIB  serta 
 pukul 14:00 -- 16:00 WIB) di
 
-Telepon: +62 22 278 6001 (telepon/fax) <br>
-E-mail: kunjungan[at]as.itb.ac.id <br>
+:phone: +62 22 278 6001 (telepon/fax) <br>
+:e-mail: kunjungan@as.itb.ac.id <br>
 (telepon hanya akan dijawab pada waktu jam kerja)
 {{% /alert %}}
