@@ -63,15 +63,15 @@ user_groups = ["Peneliti"]
   icon_pack = "fab"
   link = "https://github.com/agustrionopj"  # For a direct email link, use "mailto:test@example.org".
 
-[[social]]
-  icon = "twitter"
-  icon_pack = "fab"
-  link = "https://twitter.com/agustrionopj"
+#[[social]]
+#  icon = "twitter"
+#  icon_pack = "fab"
+#  link = "https://twitter.com/agustrionopj"
 
-[[social]]
-  icon = "instagram"
-  icon_pack = "fab"
-  link = "https://www.instagram.com/agustrionopj"
+#[[social]]
+#  icon = "instagram"
+#  icon_pack = "fab"
+#  link = "https://www.instagram.com/agustrionopj"
 
 #[[social]]
 #  icon = "facebook"
@@ -87,6 +87,6 @@ user_groups = ["Peneliti"]
 
 +++
 
-Pria yang kerap dipanggil `PJ` ini adalah penyuka Bakso dan Mie. Topik penelitian yang sedang dikerjakannya saat ini adalah bintang variabel dan okultasi. Waktu senggangnya dihabiskan dengan bermain piano, fotografi, dan _coding_. Detail lebih lanjut bisa dilihat di <a href="https://agustrionopj.github.io/" target="_blank">sini</a>.
+Pria yang kerap dipanggil `PJ` ini sedang mengerjakan topik penelitian bintang variabel dan okultasi. Waktu senggangnya dihabiskan dengan bermain piano, fotografi, dan _coding_. Detail lebih lanjut bisa dilihat di <a href="https://agustrionopj.github.io/" target="_blank">sini</a>.
 
 #### :arrow_backward: [Kembali]({{< relref "/#people" >}})
