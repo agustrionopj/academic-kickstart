@@ -19,11 +19,11 @@ Program kunjungan malam hanya dibuka beberapa malam di musim kemarau (periode Ap
 
 Jadwal malam umum untuk tahun `2019` akan dilaksanakan pada hari Kamis dan Jumat pada tanggal-tanggal berikut:
 
-| Bulan	| Tanggal |
-| ----- | ------- |
-| April |	 11, 12 |
-| Juni	| 20, 21|
-| Juli  |	4, 5, 11, 12 |
-| Agustus	| 8, 9, 15, 16 |
-| September |	5, 6, 12, 13 | 
-| Oktober	|3, 4, 10, 11 |
+ Tanggal | Bulan
+ ------- | -----
+ 11, 12 | April
+ 20, 21| Juni
+4, 5, 11, 12 | Juli
+ 8, 9, 15, 16 | Agustus
+	5, 6, 12, 13 | September
+3, 4, 10, 11 | Oktober
