@@ -65,9 +65,9 @@ office_hours = """Senin -- Jumat  pukul 09:00 WIB s.d. 15:00 WIB"""
 contact_links = [
  # {icon = "twitter", icon_pack = "fab", name = "Kirim Pesan Langsung", link = "https://twitter.com/obsbosscha"},
  # {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
- #  {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
- #  {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
-  # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
+ #  {icon = "twitter", icon_pack = "fab", name = "obsbosscha", link = "https://twitter.com/obsbosscha"},
+ #  {icon = "facebook", icon_pack = "fab", name = "observatorium.bosscha", link = "https://www.facebook.com/observatorium.bosscha/"},
+ #  {icon = "instagram", icon_pack = "fab", name = "bosschaobservatory", link = "https://www.instagram.com/bosschaobservatory"},
   ]
 
 # Display a map.

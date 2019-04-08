@@ -5,11 +5,11 @@
 # Configure the English version of the site.
 [en]
   languageCode = "en-us"
-
+#  title = "Bosscha Observatory"
 # Uncomment the lines below to configure your website in a second language.
-# [id]
-#   languageCode = "id"
-#  contentDir = "content/zh"
+#[id]
+#  languageCode = "id"
+#  contentDir = "indonesia"
 #  title = "Chinese website title..."
 #  [zh.params]
 #    description = "Site description in Chinese..."

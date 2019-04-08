@@ -52,3 +52,6 @@ Paparan astronomi populer umumnya diberikan oleh para dosen dan mahasiswa di Pro
 ***
 
 Peran Observatorium Bosscha sebagai fasilitas penelitian dan pendidikan membuatnya banyak dikunjungi oleh kalangan akademisi seperti mahasiswa dan peneliti dari institusi lain. Untuk menjamin kelancaran kegiatan mereka, Observatorium Bosscha menyediakan fasilitas menginap. Rumah Sirius dan rumah F biasanya dijadikan tempat istirahat mahasiswa dan peneliti, dan rumah Kerkhoven atau rumah A biasanya dijadikan sebagai tempat menginap tamu Observatorium Bosscha serta menjadi tempat pertemuan dan *workshop* yang dikelola Observatorium Bosscha.
+
+## Museum
+***
