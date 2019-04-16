@@ -1,4 +1,6 @@
 +++
+headless = true
+
 # People widget.
 widget = "people"  # Do not modify this line!
 active = true  # Activate this widget? true/false
@@ -14,9 +16,7 @@ weight = 68
 user_groups = ["Direktur",
                "Peneliti",
                "_Outreach_",
-               "Administrasi",
-               "Teknisi",
-               "Pendukung"]
+              ]
 
 cta_label = "Back"
   cta_url = "#about"

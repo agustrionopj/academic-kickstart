@@ -87,6 +87,6 @@ email = ""
 
 +++
 
-Observatorium Bosscha adalah lembaga riset yang berada di bawah naungan Fakultas Matematika dan Ilmu Pengetahuan Alam Institut Teknologi Bandung ([FMIPA ITB](https://fmipa.itb.ac.id)). Hingga saat ini, Observatorium Bosscha merupakan satu--satunya observatorium besar di Indonesia. Bersama--sama dengan [Program Studi Astronomi](https://www.as.itb.ac.id/en/), FMIPA ITB, Observatorium Bosscha menjadi pusat penelitian, pendidikan, dan pengembangan ilmu Astronomi di Indonesia.
+Observatorium Bosscha adalah lembaga riset yang berada di bawah naungan Fakultas Matematika dan Ilmu Pengetahuan Alam Institut Teknologi Bandung (<a href="https://fmipa.itb.ac.id" target="_blank">FMIPA ITB</a>). Hingga saat ini, Observatorium Bosscha merupakan satu--satunya observatorium besar di Indonesia. Bersama--sama dengan <a href="https://www.as.itb.ac.id/en/" target="_blank">Program Studi Astronomi</a>, FMIPA ITB, Observatorium Bosscha menjadi pusat penelitian, pendidikan, dan pengembangan ilmu Astronomi di Indonesia.
 
 Detail lebih lanjut mengenai [sejarah]({{< ref "/author-detil/_index.md">}}), [staf]({{< ref "#people" >}}), [fasilitas]({{< ref "/author-detil/instrumen.md" >}}), dan [akses]({{< ref "/author-detil/akses.md" >}}) silakan cek tautan [berikut]({{< ref "/author-detil/_index.md">}}).

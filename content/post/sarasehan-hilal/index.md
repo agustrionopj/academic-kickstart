@@ -92,5 +92,5 @@ Flyer kegiatan bisa dilihat pada tautan {{% staticref "files/flyer-sarasehan.jpg
 {{% alert note %}}
 **Yatny Yulianty** <br>
 **+62 856 5900 2915** <br>
-**yulianty@as.itb.ac.id**
+**yulianty[at]as.itb.ac.id**
 {{% /alert %}}

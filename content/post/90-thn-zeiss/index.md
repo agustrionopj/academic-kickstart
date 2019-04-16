@@ -12,7 +12,7 @@ draft = false
 authors = ["admin"]
 
 # Is this a featured post? (true/false)
-featured = true
+featured = false
 
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
@@ -52,7 +52,7 @@ Sebagai catatan penting, kualitas langit yang baik, bersih dari polusi udara dan
 
 {{% alert note %}}
 **Premana W. Premadi,** <br>
-**premadi@as.itb.ac.id,** <br>
+**premadi[at]as.itb.ac.id,** <br>
 **Telepon: (022) 278-6027** 
 {{% /alert %}}
 

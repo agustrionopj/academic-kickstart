@@ -14,7 +14,7 @@ type = "docs"  # Do not modify.
   weight = 1
 +++
 
-## Workshop Pendidikan
+<!-- ## Workshop Pendidikan
 
 bla bla deskripsi soal workshop. Jika perlu page khusus, bisa ke [sini]({{< relref "workshop">}}).
 
@@ -22,4 +22,6 @@ detail detail detail detail
 
 ## Pengamatan Hilal
 
-detail detail detail
+detail detail detail -->
+
+--- *Under Construction* ---
