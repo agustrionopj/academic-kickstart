@@ -46,4 +46,4 @@ Observatorium Bosscha merupakan lembaga riset Astronomi tertua di Indonesia yang
 <!-- ## [Pengembangan Sistem Pengamatan Hilal]({{< relref "exo" >}}) -->
 ## Pengembangan Sistem Pengamatan Hilal
 
---- *Under construction* ---
+Observatorium Bosscha telah terlibat dalam pengamatan sabit muda yang menandai awal bulan Hijriyah, terutama Ramadhan, Syawal, dan Dzulhijjah semenjak tahun 2007. Sabit termuda yang bisa diamati setelah Matahari terbenam inilah yang dikenal dengan sebutan Hilal. Teknik yang digunakan terus berevolusi, mengikuti perkembangan jaman serta pemahaman teknis observasi hilal itu sendiri. Detektor yang digunakan pun beragam: mulai dari webcam, kamera DSLR, CCD kamera, sampai dengan CMOS camera. Penggunaan filter pun mengalami perubahan: dari tanpa filter, penggunaan filter ND 0.3 + 0.6, serta penggunaan filter inframerah.
