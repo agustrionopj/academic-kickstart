@@ -15,10 +15,10 @@ subtitle = ""
 [content]
   # Page type to display. E.g. post, talk, or publication.
  # page_type = "publication"
-  page_type = "post"
+  page_type = "post" # tampilkan post yang menjadi 'featured'
 
   # Choose how much pages you would like to display (0 = all pages)
-  count = 0
+  count = 1
 
   # Page order. Descending (desc) or ascending (asc) date.
   order = "desc"

@@ -9,7 +9,7 @@ draft = false
 authors = ["admin"]
 
 tags = ["News"]
-summary = "Press release tim Event Horizon Telescope (EHT) perihal foto lubang hitam."
+summary = "Press release tim Event Horizon Telescope (EHT) perihal foto lubang hitam. Foto yang dirilis adalah Lubang Hitam Supermasif di galaksi M87 (atau disebut juga M87*)"
 
 featured = true
 
