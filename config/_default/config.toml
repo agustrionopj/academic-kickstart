@@ -13,7 +13,7 @@ baseurl = "https://bosscha-test.netlify.com/"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2019 Observatorium Bosscha"
+copyright = "&copy; {year} Observatorium Bosscha" # opsi {year} untuk auto-update copyrights
 
 # Enable analytics by entering your Google Analytics tracking ID
 googleAnalytics = ""

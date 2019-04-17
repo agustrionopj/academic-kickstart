@@ -144,6 +144,7 @@ Fasilitas teleskop Surya ini juga dilengkapi dengan poster-poster berisi informa
 
 ## Teleskop Bamberg
 ***
+`Status: tidak aktif`
 
 Teleskop Bamberg termasuk jenis teleskop refraktor yang ada di Observatorium Bosscha, dengan diameter lensa 0,37 m dan panjang fokus 7 m. Teleskop ini berada pada sebuah gedung beratap setengah silinder dengan atap geser yang dapat bergerak maju-mundur untuk membuka atau menutup. Karena bentuk bangunannya, jangkauan teleskop ini hanya terbatas untuk pengamatan benda langit dengan jarak zenit 60$^\circ$, atau untuk benda langit yang lebih tinggi dari 30$^\circ$ dan azimuth dalam sektor Timur-Selatan-Barat. Untuk obyek langit yang berada di langit utara atau azimuth sektor Timur-Utara-Barat praktis tak dapat dijangkau oleh teleskop ini. Teleskop ini selesai dipasang awal tahun 1929 dan digerakkan dengan sistem bandul gravitasi, yang secara otomatis mengatur kecepatan teleskop bergerak ke arah barat mengikuti bintang yang ada di medan teleskop sesuai dengan kecepatan rotasi bumi. Teleskop ini juga telah dilengkapi dengan detektor modern berupa kamera CCD.
 
@@ -154,11 +155,21 @@ Teleskop Bamberg digunakan untuk pengamatan kurva cahaya bintang-bintang variabe
 Dari namanya, teleskop-teleskop ini didisain untuk pemakaian yang _mobile_ atau berpindah-pindah. Diameter dari teleskopnya berkisar dari 66 mm sampai 200 mm atau 0,2 m. Teleskop-teleskop ini sering digunakan untuk kegiatan praktikum mahasiswa Astronomi, kerja praktik, maupun kegiatan layanan publik, terutama untuk malam umum. Untuk pemakaian semi-permanen, tersedia dua *monopod* yang bisa digunakan.
 
 ## Teleskop GOTO
+***
+`Status: tidak aktif`
 
 ## Teleskop Schmidt Bimasakti
+***
+`Status: tidak aktif`
 
-## Teleskop Radio Hidrogen 6 m
+## Teleskop Radio Hidrogen 6 m 
+***
+`Status: tidak aktif`
 
-## Teleskop Radio 2,3 m
+## Teleskop Radio 2,3 m 
+***
+`Status: tidak aktif`
 
 ## Teleskop Radio JOVE
+***
+`Status: tidak aktif`

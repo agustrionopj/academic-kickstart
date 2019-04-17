@@ -121,7 +121,7 @@ comment_count = true
 section_pager = true
 
 # Enable in-built social sharing buttons? (true/false)
-sharing = false
+sharing = true
 
 # Configuration of publication pages.
 [publications]
