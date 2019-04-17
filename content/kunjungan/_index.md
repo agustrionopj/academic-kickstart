@@ -20,11 +20,11 @@ type = "docs"  # Do not modify.
 
 Program kunjungan publik ini terbagi menjadi dua:
 
-## **[Kunjungan Siang]({{< ref "/kunjungan/siang.md">}})**
+### [Kunjungan Siang]({{< relref "siang">}})
 
 Di program ini, pengunjung dapat `melihat cara kerja teleskop Zeiss` (**tidak meneropong**) dan `mendapat informasi astronomi di ruang multimedia`. Pengunjung harus mendaftar terlebih dahulu dengan biaya Rp. 15.000/orang. Untuk lebih jelasnya, lihat cara [pendaftaran dan pembayaran]({{< ref "/kunjungan/daftar.md">}}).
 
-## **[Kunjungan Malam]({{< ref "/kunjungan/malam.md">}})**
+### [Kunjungan Malam]({{< relref "malam">}})
 
 Di program ini, **jika langit cerah (tidak mendung/hujan/berkabut)** pengunjung dapat:
 
